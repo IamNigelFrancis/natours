@@ -1,7 +1,7 @@
 # Natours Project
 Present training development . Advanced CSS &amp; SASS with Jonas Schmedtmann (Udemy)
 
-## Course structure: 
+## Course structure
 
 * Tons of modern CSS techniques to create stunning designs and effects
 * Advanced CSS animations with @keyframes, animation and transition
